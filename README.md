@@ -1,4 +1,4 @@
-# Shell-Script-Tutorial
+# Shell-Script-Tutorial for everyone
 This repo is created for basic learning for shell scripting
 
 **Example-1**
